@@ -1,8 +1,9 @@
-![Auto Assign](https://github.com/qq117776417/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
+① https://gitee.com/qq117776417/blue-butterfly-media-studio/releases
 
-![Proof HTML](https://github.com/qq117776417/demo-repository/actions/workflows/proof-html.yml/badge.svg)
+② https://atomgit.com/qq117776417
 
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+③ https://blog.csdn.net/landieboy?type=download
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+④ http://landieboy.ysepan.com
+
+⑤ https://www.youtube.com/@landieboy
